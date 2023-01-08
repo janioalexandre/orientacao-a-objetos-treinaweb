@@ -1,0 +1,15 @@
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\bin\Debug\net7.0\orientacao-a-objetos-treinaweb.exe
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\bin\Debug\net7.0\orientacao-a-objetos-treinaweb.deps.json
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\bin\Debug\net7.0\orientacao-a-objetos-treinaweb.runtimeconfig.json
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\bin\Debug\net7.0\orientacao-a-objetos-treinaweb.dll
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\bin\Debug\net7.0\orientacao-a-objetos-treinaweb.pdb
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.csproj.AssemblyReference.cache
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.AssemblyInfoInputs.cache
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.AssemblyInfo.cs
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.csproj.CoreCompileInputs.cache
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.dll
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\refint\orientacao-a-objetos-treinaweb.dll
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.pdb
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\orientacao-a-objetos-treinaweb.genruntimeconfig.cache
+C:\sources\C#\TreinaWeb - Desenvolvedor C# - 01 Fundamentos - 02 - Orientação a Objetos\orientacao-a-objetos-treinaweb\obj\Debug\net7.0\ref\orientacao-a-objetos-treinaweb.dll
