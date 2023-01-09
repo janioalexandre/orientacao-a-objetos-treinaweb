@@ -2,6 +2,7 @@
 using RH;
 using Personagens;
 using Notificacoes;
+using Itens;
 
 namespace orientacao_a_objetos_treinaweb
 {
@@ -72,6 +73,29 @@ namespace orientacao_a_objetos_treinaweb
                     break;          
             }
             notificacao.Enviar();
+
+            // Itens 
+            var espada = new Espada("Excalibur", 10, 10, 100);
+            var pocao = new Pocao("Poção de Vida", 20, 20, 50);
+            var joia = new Joia("Diamante", 30, 30, 100);
+
+            var itens = new List<Item>();
+            itens.Add(espada);
+            itens.Add(pocao); 
+            itens.Add(joia);
+            
+            foreach(var item in itens)
+            {
+                if(item is Icolecionavel)
+                {
+                    (item as Icolecionavel).Colecionar();
+                }
+                if(item is IConsumivel)
+                {
+                    (item as IConsumivel).Consumir();
+                }
+            } 
+
         }
     }
 }
